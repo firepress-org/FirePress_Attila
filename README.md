@@ -1,28 +1,38 @@
-# Attila
+# FirePress_attila
 
-A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/).
 
-## Demo
+## Touch it: Live demo
 
-* [Blog](http://attila.zutrinken.com/)
-* [Post](http://attila.zutrinken.com/demo/)
-* [Tag Archive](http://attila.zutrinken.com/tag/general/)
-* [Author Archive](http://attila.zutrinken.com/author/zutrinken/)
+- [See this theme](#) on your own device.
+- Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
 
-## Screenshots
+*(The website is in the pipeline but it’s not public at the moment.)*
 
-<table>
-<tr>
-<td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-desktop.jpg" />
-</td>
-<td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-mobile.jpg" />
-</td>
-</tr>
-</table>
+**Screenshots** can be found [here](#).
 
-## Features
+
+## Why fork this Ghost Theme ?
+
+**Enhancements** — This theme is an enhanced version of the Ghost Theme **attila**. If you don’t know [Ghost](https://ghost.org/) it’s great tools to publish your website and your blog.
+
+These are the essential enhancements I can’t live without:
+
+- **Buttons** (unicorn UI)
+- **Icons** (Font Awesome 5)
+- **Code Syntax** (highlight.js) 
+
+(*Grid was left out as it is in conflict with the main style.css*)
+
+**Drop-in replacement** — You can use it as a drop-in replacement of the original Casper theme.
+
+**Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
+
+**Curated** — This theme is one the few themes that pass our big test. See the curated collection [in this Git repo](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
+
+**Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
+
+
+## attila features
 
 * Responsive layout
 * Navigation support
@@ -35,24 +45,37 @@ A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/
 * Subscribers support
 * Sharing buttons
 
-## Setup
+**Disqus**
 
 To enable [Disqus](https://disqus.com/) comments go to your blogs code injection settings and add `<script>var disqus = 'YOUR_DISQUS_SHORTNAME';</script>` to your blog header.
 
-## Development
 
-Install [Grunt](http://gruntjs.com/getting-started/):
+## Contributing
 
-	npm install -g grunt-cli
+Thanks to the power of communities, this is where `1 + 1 = 3`.
 
-Install Grunt dependencies:
+1. Fork it
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
-	npm install
-
-Build Grunt project:
-
-	grunt build
 
 ## Copyright & License
 
 Copyright (C) 2015-2018 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
+
+
+## Sources
+
+- This Git repo is available [here](https://github.com/firepress-org/FirePress_attila).
+- This project was forked from this [Git repo](https://github.com/zutrinken/attila).
+
+
+## Author
+
+In the git world most people refer themselves as maintainers but I hate this expression. It feels heavy. I much prefer author.
+
+Shared by [Pascal Andy](https://pascalandy.com/blog/now/). Find me on [Twitter](https://twitter.com/askpascalandy).
+
+
