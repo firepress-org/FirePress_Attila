@@ -1,19 +1,29 @@
 # FirePress_attila
 
 
-## Touch it: Live demo
+## What is this?
+
+It’s a theme (*a template if you prefer*) for [Ghost](https://ghost.org/).
+
+Ghost is a free and open source website & blogging platform designed to simplify the process of publishing. It’s individual bloggers as well as online publications. You can see Ghost as a CMS (content management system) designed to be better alternative to systems like: *WordPress, Drupal, Medium, Tumblr*, etc.
+
+
+## Live demo
+
+**Not available** at the moment. I’m working on a dedicated website where people will be able to see all Ghost Themes we are supporting at FirePress.
 
 - [See this theme](#) on your own device.
 - Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
 
-*(The website is in the pipeline but it’s not public at the moment.)*
 
-**Screenshots** can be found [here](#).
+## Screenshots
+
+- work in progress
 
 
 ## Why fork this Ghost Theme ?
 
-**Enhancements** — This theme is an enhanced version of the Ghost Theme **attila**. If you don’t know [Ghost](https://ghost.org/) it’s great tools to publish your website and your blog.
+**Enhancements** — This theme is an enhanced version of the Ghost Theme **Attila**.
 
 These are the essential enhancements I can’t live without:
 
@@ -32,7 +42,7 @@ These are the essential enhancements I can’t live without:
 **Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
 
 
-## attila features
+## Attila features
 
 * Responsive layout
 * Navigation support
@@ -61,20 +71,17 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 5. Submit a pull request
 
 
-## Copyright & License
+## License & Sources
 
-Copyright (C) 2015-2018 Peter Amende - Released under the [MIT License](https://github.com/zutrinken/attila/blob/master/LICENSE).
-
-
-## Sources
-
-- This Git repo is available [here](https://github.com/firepress-org/FirePress_attila).
-- This project was forked from this [Git repo](https://github.com/zutrinken/attila).
+- For this software, view **MIT** license information at https://github.com/zutrinken/attila/blob/master/LICENSE
+- For the fork, view the **GNU** license information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+- This Git repo is available at https://github.com/firepress-org/FirePress_Attila
+- This project was forked from https://github.com/zutrinken/attila
 
 
 ## Author
 
-In the git world most people refer themselves as maintainers but I hate this expression. It feels heavy. I much prefer author.
+In the world of OSS (open source software) most people refer themselves as maintainers. The thing is… I hate this expression. It feels heavy and not fun. I much prefer author.
 
 Shared by [Pascal Andy](https://pascalandy.com/blog/now/). Find me on [Twitter](https://twitter.com/askpascalandy).
 
