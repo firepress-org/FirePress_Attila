@@ -29,6 +29,12 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ## 1.5.0B — — — — — — — — — —
 
+**⚡️ Minor Feature**
+
+- rename theme with a Capital
+
+## 1.5.0B — — — — — — — — — —
+
 **🚀 Major feature**
 
 - Added custom elements, see README
