@@ -1,4 +1,8 @@
-# FirePress_attila
+# FirePress_Attila
+
+
+[![Ghost version](https://img.shields.io/badge/ghost-v1.x-brightgreen.svg?style=flat-square)](https://github.com/TryGhost/Ghost)
+[![Demo status](https://img.shields.io/website-online-offline-brightgreen-red/https/dev.epistrephe.in/steam.svg?label=demo&style=flat-square)](https://play-with-ghost.com/)
 
 
 ## What is this?
