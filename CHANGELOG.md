@@ -27,7 +27,7 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ---
 
-## 1.5.0B — — — — — — — — — —
+## 1.5.0C — — — — — — — — — —
 
 **⚡️ Minor Feature**
 
