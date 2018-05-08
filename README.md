@@ -7,9 +7,11 @@
 
 ## What is this?
 
-It’s a theme (*a template if you prefer*) for [Ghost](https://ghost.org/).
+It’s a theme (*template*) made for Ghost.
 
-Ghost is a free and open source website & blogging platform designed to simplify the process of publishing. It’s individual bloggers as well as online publications. You can see Ghost as a CMS (content management system) designed to be better alternative to systems like: *WordPress, Drupal, Medium, Tumblr*, etc.
+[Ghost](https://ghost.org/) is a free and open source website & blogging platform designed to simplify the process of publishing. It’s for bloggers as well as independent online publications. You can see Ghost as a better alternative to CMS systems like: *WordPress, Drupal, Medium, Tumblr*, etc.
+
+It’s one of the most popular modern [open source projects](https://github.com/TryGhost/Ghost) in the world, and is used in production by tens of thousands of websites and companies.
 
 
 ## Live demo
@@ -88,5 +90,3 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 In the world of OSS (open source software) most people refer themselves as maintainers. The thing is… I hate this expression. It feels heavy and not fun. I much prefer author.
 
 Shared by [Pascal Andy](https://pascalandy.com/blog/now/). Find me on [Twitter](https://twitter.com/askpascalandy).
-
-
