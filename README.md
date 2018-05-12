@@ -68,13 +68,25 @@ To enable [Disqus](https://disqus.com/) comments go to your blogs code injection
 
 ## Contributing
 
-Thanks to the power of communities, this is where `1 + 1 = 3`.
+We’d love for you to help us improve this project. To help us keep this collection high quality, we request that contributions adhere to the following guidelines.
 
-1. Fork it
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request
+- Explain why you’re making a change. Even if it seems self-evident, please take a sentence or two to tell us why your change or addition should happen. It’s especially helpful to articulate why this change applies to everyone who works with the applicable technology, rather than just you or your team.
+- Please only modify one element per pull request. This helps keep pull requests and feedback focused on a specific project or technology.
+
+In general, the more you can do to help us understand the change you’re making, the more likely we’ll be to accept your contribution quickly.
+
+If we choose not to include your language, tool, or project, it’s not because it’s not awesome.
+
+**How to contribute**
+
+Here’s how we suggest you go about proposing a change to this project:
+
+1. [Fork this project][https://help.github.com/articles/fork-a-repo/] to your account.
+2. [Create a branch][https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/] for the change you intend to make.
+3. Make your changes to your fork.
+4. [Send a pull request][https://help.github.com/articles/about-pull-requests/] from your fork’s branch to our `master` branch.
+
+Using the web-based interface to make changes is fine too, and will help you by automatically forking the project and prompting to send a pull request too.
 
 
 ## License & Sources
