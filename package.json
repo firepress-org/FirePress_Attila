@@ -1,7 +1,7 @@
 {
-  "name": "attila",
-  "description": "Ghost Theme",
-  "demo": "http://attila.zutrinken.com",
+    "name": "FirePress_Attila",
+    "description": "This Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
+    "demo": "https://play-with-ghost.com/ghost-themes/firepress-attila-for-barbershops/",
   "version": "1.7.5",
   "engines": {
     "ghost": ">=2.1.0"
