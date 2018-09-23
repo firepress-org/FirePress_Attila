@@ -48,7 +48,7 @@ These are the essential enhancements I can’t live without:
 **Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
 
 
-## Attila features
+## Features
 
 * Responsive layout
 * Navigation support
@@ -61,7 +61,7 @@ These are the essential enhancements I can’t live without:
 * Subscribers support
 * Sharing buttons
 
-**Disqus**
+## Setup
 
 To enable [Disqus](https://disqus.com/) comments go to your blogs code injection settings and add `<script>var disqus = 'YOUR_DISQUS_SHORTNAME';</script>` to your blog header.
 
