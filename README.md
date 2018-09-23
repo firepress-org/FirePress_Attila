@@ -1,51 +1,32 @@
 # FirePress_Attila
 
 
-[![Ghost version](https://img.shields.io/badge/ghost-v1.x-brightgreen.svg?style=flat-square)](https://github.com/TryGhost/Ghost)
-[![Demo status](https://img.shields.io/website-online-offline-brightgreen-red/https/dev.epistrephe.in/steam.svg?label=demo&style=flat-square)](https://play-with-ghost.com/)
-
-
 ## What is this?
 
-It’s a theme (*template*) made for Ghost.
-
-[Ghost](https://ghost.org/) is a free and open source website & blogging platform designed to simplify the process of publishing. It’s for bloggers as well as independent online publications. You can see Ghost as a better alternative to CMS systems like: *WordPress, Drupal, Medium, Tumblr*, etc.
-
-It’s one of the most popular modern [open source projects](https://github.com/TryGhost/Ghost) in the world, and is used in production by tens of thousands of websites and companies.
+- **FirePress_Attila** — It’s a free and responsive Ghost theme (*a template if you prefer*) made for Ghost.
+- **Compatibility** — This theme works on Ghost `>= 2.0.0`.
+- **What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
 
-## Live demo
+## Live Demo
 
-**Not available** at the moment. I’m working on a dedicated website where people will be able to see all Ghost Themes we are supporting at FirePress.
+**play-with-ghost.com** is a playground to learn about Ghost. You can **see** Ghost themes and **login** into the admin panel by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
-- [See this theme](#) on your own device.
-- Even better! [Login into Ghost Admin Panel](#) and see how this theme looks with your own content. 
-
-
-## Screenshots
-
-- work in progress
+- **Live Demo** ==> https://play-with-ghost.com/live-demo-firepress-attila-for-barbershops/
+- **Log in credentials** ==> https://play-with-ghost.com/ghost-themes/firepress-attila-for-barbershops/
+- **Admin Panel** ==> https://play-with-ghost.com/live-demo-firepress-attila-for-barbershops/ghost/
 
 
 ## Why fork this Ghost Theme ?
 
-**Enhancements** — This theme is an enhanced version of the Ghost Theme **Attila**.
-
-These are the essential enhancements I can’t live without:
-
-- **Buttons** (unicorn UI)
-- **Icons** (Font Awesome 5)
-- **Code Syntax** (highlight.js) 
-
-(*Grid was left out as it is in conflict with the main style.css*)
-
-**Drop-in replacement** — You can use it as a drop-in replacement of the original Casper theme.
-
-**Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
-
-**Curated** — This theme is one the few themes that pass our big test. See the curated collection [in this Git repo](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
-
-**Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
+- **Enhancements** — This theme has been enhanced to feature some elements that are not present in the original theme. IMHO, these are essential enhancements that are hard to live without:
+	- **Buttons** (unicorn UI)
+	- **Icons** (Font Awesome 5)
+	- **Code Syntax** (highlight.js) 
+	- **Grid** (great to make pricing table)
+- **Drop-in replacement** — No special tweaks to do. It will work out of the box.
+- **Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
+- **Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) repo, or [by tags on Github](https://github.com/topics/firepress-ghost-theme).
 
 
 ## Features
@@ -68,37 +49,50 @@ To enable [Disqus](https://disqus.com/) comments go to your blogs code injection
 
 ## Contributing
 
-We’d love for you to help us improve this project. To help us keep this collection high quality, we request that contributions adhere to the following guidelines.
-
-- Explain why you’re making a change. Even if it seems self-evident, please take a sentence or two to tell us why your change or addition should happen. It’s especially helpful to articulate why this change applies to everyone who works with the applicable technology, rather than just you or your team.
-- Please only modify one element per pull request. This helps keep pull requests and feedback focused on a specific project or technology.
-
-In general, the more you can do to help us understand the change you’re making, the more likely we’ll be to accept your contribution quickly.
-
-If we choose not to include your language, tool, or project, it’s not because it’s not awesome.
-
-**How to contribute**
-
-Here’s how we suggest you go about proposing a change to this project:
+Here’s how I suggest you go about proposing a change to this project:
 
 1. [Fork this project][https://help.github.com/articles/fork-a-repo/] to your account.
-2. [Create a branch][https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/] for the change you intend to make.
-3. Make your changes to your fork.
-4. [Send a pull request][https://help.github.com/articles/about-pull-requests/] from your fork’s branch to our `master` branch.
+2. [Create a branch][https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/] for the change you intend to make (i.e. `git checkout -b my-new-feature`)
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. [Submit a pull request][https://help.github.com/articles/about-pull-requests/] from your fork’s branch to our `master` branch.
+	- Explain why you’re making a change. Even if it seems self-evident, please take a sentence or two to tell us why your change or addition should happen. It’s especially helpful to articulate why this change applies to everyone who works with the applicable technology, rather than just you or your team.
+	- Please only modify one element per pull request. This helps keep pull requests and feedback focused on a specific project or technology.
 
-Using the web-based interface to make changes is fine too, and will help you by automatically forking the project and prompting to send a pull request too.
 
+## Sources & Fork
 
-## License & Sources
-
-- For this software, view **MIT** license information at https://github.com/zutrinken/attila/blob/master/LICENSE
-- For the fork, view the **GNU** license information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
 - This Git repo is available at https://github.com/firepress-org/FirePress_Attila
 - This project was forked from https://github.com/zutrinken/attila
 
 
-## Author
+## License
 
-In the world of OSS (open source software) most people refer themselves as maintainers. The thing is… I hate this expression. It feels heavy and not fun. I much prefer author.
+- This software is under the **MIT** license. Information at https://github.com/zutrinken/attila/blob/master/LICENSE
+- This fork is under the **GNU** license. Information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
 
-Shared by [Pascal Andy](https://pascalandy.com/blog/now/). Find me on [Twitter](https://twitter.com/askpascalandy).
+
+## FirePress Hosting
+
+At FirePress we do one thing and we do it with our whole heart: we host **fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website. Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
+
+We offer **workshops** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
+
+- Montréal - Canada
+- Québec City - Canada
+- Toronto - Canada
+- New-York - USA
+
+Because we believe your website should speak up in your name, we consider our mission completed once your site has become [your impresario](https://play-with-ghost.com/ghost-themes/why-launching-your-next-website-with-firepress/).
+
+
+## Keep in touch
+
+- Pascal Andy’s [« now page »](https://pascalandy.com/blog/now/)
+- Follow me on [Twitter](https://twitter.com/askpascalandy)
+- Find more Ghost Themes on [play-with-ghost.com](https://play-with-ghost.com/)
+
+
+## Screenshots
+
+
