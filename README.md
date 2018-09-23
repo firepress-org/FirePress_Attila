@@ -95,4 +95,15 @@ Because we believe your website should speak up in your name, we consider our mi
 
 ## Screenshots
 
+<br>
+
+![firepress_attila_11](https://user-images.githubusercontent.com/6694151/45924002-c1411180-bec2-11e8-8f1c-663b4bf59370.jpg)
+
+<br>
+
+![firepress_attila_12](https://user-images.githubusercontent.com/6694151/45924003-c1d9a800-bec2-11e8-9097-2befddd5fcce.jpg)
+
+<br>
+
+![firepress_attila_13](https://user-images.githubusercontent.com/6694151/45924004-c1d9a800-bec2-11e8-871b-4c213b8b3b80.jpg)
 
