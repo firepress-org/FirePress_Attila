@@ -1,6 +1,6 @@
 {
     "name": "FirePress_Attila",
-    "description": "This Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
+    "description": "This Ghost theme is supported by FirePress. Find more free themes at https://github.com/topics/firepress-ghost-theme",
     "demo": "https://play-with-ghost.com/ghost-themes/firepress-attila-for-barbershops/",
   "version": "1.7.6",
   "engines": {
@@ -16,6 +16,11 @@
     "email": "xoxo@zutrinken.com",
     "url": "http://zutrinken.com"
   },
+  "maintainer": {
+    "name": "Pascal Andy",
+    "email": "relations@firepress.org",
+    "url": "https://play-with-ghost.com/"
+  },
   "gpm": {
     "type": "theme",
     "categories": [
@@ -26,11 +31,12 @@
   "keywords": [
     "ghost-theme",
     "ghost",
-    "theme"
+    "theme",
+    "FirePress"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/firepress-org/FirePress_Attila.git"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",
