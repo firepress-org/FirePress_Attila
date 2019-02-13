@@ -11,6 +11,9 @@
 
 	<link rel="stylesheet" type="text/css" href="{{asset "css/style.css"}}" />
 
+  {{!-- Customisation by https://github.com/firepress-org --}}
+  {{>custom_header}}
+
 	{{ghost_head}}
 </head>
 
@@ -26,8 +29,7 @@
 		<footer id="footer">
 			<div class="inner">
 				<section class="credits">
-					<span class="credits-theme">{{t "Theme" }} <a href="https://github.com/zutrinken/attila">Attila</a> {{t "by"}} <a href="https://zutrinken.com" rel="nofollow">zutrinken</a></span>
-					<span class="credits-software">{{t "Published with"}} <a href="https://ghost.org">Ghost</a></span>
+          <a href="{{@site.url}}">{{@site.title}}</a> &copy; {{date format="YYYY"}}.&nbsp;&nbsp;Driven by firepress.org and published with ghost.org
 				</section>
 			</div>
 		</footer>
@@ -37,5 +39,8 @@
 
 	{{ghost_foot}}
 
+    {{!-- Customisation by https://github.com/firepress-org --}}
+    {{>custom_footer}}
+    
 </body>
 </html>
