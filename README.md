@@ -56,6 +56,11 @@ In short, you can try Ghost on the spot without having to sign-up!
 - **Code Injection** — We share snippets that improve the look of this theme via this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize this theme. This allows you to override pretty much any styles you want to change.
 - **Curated** — This theme was carefully selected out of hundreds of Ghost themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) repo, or [by tags on Github](https://github.com/topics/firepress-ghost-theme).
 
+⚠️ Warning: There is a CSS conflict with the custom buttons and the grid.
+
+<br>
+
+
 ## Setup
 
 To enable [Disqus](https://disqus.com/) comments go to your blogs code injection settings and add `<script>var disqus = 'YOUR_DISQUS_SHORTNAME';</script>` to your blog header.
