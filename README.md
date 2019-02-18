@@ -17,7 +17,9 @@
 &nbsp;
 
 
-# FirePress_Attila
+# FirePress_Attila (DEPRECATED)
+
+See https://github.com/firepress-org/FirePress_Vapor instead.
 
 
 ## What is this?
